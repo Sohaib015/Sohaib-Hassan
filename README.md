@@ -63,14 +63,17 @@ Analysed **42,000+ bookings** using analytical SQL queries to identify cancellat
 
 Analysed **3,900 transaction records** to identify revenue drivers and loyalty segments. Using Python for median imputation and SQL for segmentation, I discovered that loyal customers formed **80% of the base**, supporting more targeted marketing recommendations.
 
+#### **[Explore all the repositories](https://github.com/Sohaib015?tab=repositories)**
+
 ---
 
 ### **Certifications**
 
-- **Data Analyst Associate**
-- **SQL Associate**
-- **Data Analyst in Power BI**
-- **Ask Questions to Make Data-Driven Decisions**
+- **[Data Analyst Associate | DataCamp](https://www.datacamp.com/certificate/DAA0019043955418)**
+- **[SQL Associate | DataCamp](https://www.datacamp.com/certificate/SQA0011629965678)**
+- **[Data Analyst in Power BI | DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/track/339aee3fe29e49773f7b8fda6a868e23b4cf75d8?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink)**
+- **[Data Analyst in Python | DataCamp](https://www.datacamp.com/certificate/DA0020834613205)**
+- **[Ask Questions to Make Data-Driven Decisions | Google](https://www.coursera.org/account/accomplishments/verify/CT6MOKPGOD8A)**
 
 ---
 
