@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sohaib Hassan
+# Hi, I'm Sohaib Hassan
 
 ### **Data Analyst | Specialising in Operations, Retail & Performance Analytics**
 
